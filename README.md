@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 George Claudio Maigua - [Github](https://github.com/GeorgeClaudiOfficiel) / [X](https://x.com/georgeclaudi0)  
-
+Milton Kumirai - https://github.com/Kummirai
 
 
 ## License
